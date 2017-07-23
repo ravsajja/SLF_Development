@@ -3,4 +3,5 @@ public class ForGitDemo {
 	String name;
 	Decimal amount;
 	Integer age;
+	Date dob;
 }
