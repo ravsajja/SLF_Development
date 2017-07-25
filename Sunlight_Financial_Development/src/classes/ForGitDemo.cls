@@ -4,4 +4,8 @@ public class ForGitDemo {
 	Decimal amount;
 	Integer age;
 	Date dob;
+	
+	public void test(){
+		
+	}
 }
